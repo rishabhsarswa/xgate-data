@@ -47,7 +47,7 @@ find "$src_folder" -type f -print0 | while IFS= read -r -d '' f; do
 	
 	fi
 	
-	echo "$f" > list.txt
+	echo "$f" >> list.txt
 
     
 done
