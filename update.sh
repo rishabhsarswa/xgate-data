@@ -8,6 +8,8 @@ cd "$(dirname $0)"
 echo "Loading data into Git ... "
 
 
+#git remote set-url origin https://USERNAME:TOKEN@github.com/USERNAME/REPO_NAME.git
+
 
 git add .
 git commit -m "mark update auto $@"
