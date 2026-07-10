@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-
+rm list.txt
 
 tar -cf "xgate-src.tar.xz" /home/rishu/awn/projects/xgate/xgate_src
 
