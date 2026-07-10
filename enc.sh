@@ -3,7 +3,7 @@
 
 rm list.txt
 
-tar -cf "xgate-src.tar.xz" /home/rishu/awn/projects/xgate/xgate_src
+tar -cf "/home/rishu/xgate-data/xgate-src.tar.xz" /home/rishu/awn/projects/xgate/xgate_src
 
 echo "source back done"
 

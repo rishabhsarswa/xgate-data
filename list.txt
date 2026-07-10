@@ -9344,6 +9344,7 @@ e2823ea7a67b5b556b93d5403f9e4706541973ea3a4500fa2e30d2141d4e9bcc  /home/rishu/xg
 e6f3616d983df935e907c4a5a09b3d75c3cab732786a84b750d5fb30252f7b3a  /home/rishu/xgate-data/pro/eci/users/rishu/database/key_lists/phone_book_keep.txt
 e6f3616d983df935e907c4a5a09b3d75c3cab732786a84b750d5fb30252f7b3a  /home/rishu/xgate-data/pro/eci/users/rishu/database/key_lists/phone_book.txt
 1e36087dc5ca672ff245928fc6ec9b8e677809f0827bd4602ebc9d2b3b96687b  /home/rishu/xgate-data/pro/eci/logs/eci2002search.txt
+b79f8618667621561b0030e5701d68289662bb4a09712bf8ad553634dc3f285c  /home/rishu/xgate-data/xgate-src.tar.xz
 87522163df1d3d6f111338d6dc9e9891384279293149667fd5cef6e39e80528f  /home/rishu/xgate-data/rishu-keep/scanned_pdfs/Office Lens/2023_08_23 11_38 AM Office Lens.pdf
 5a275296ab9b4ebd9a968777f984880dc4cf8316fd1934532cd9b8520f5a2cb0  /home/rishu/xgate-data/rishu-keep/scanned_pdfs/Office Lens/2024_07_09 2_24 PM Office Lens.pdf
 90224f63838c429ba15fbd15e78f024697670279de4b3034498cd2ac39a1b0d9  /home/rishu/xgate-data/rishu-keep/scanned_pdfs/Office Lens/2025_03_17 11_52 Office Lens.pdf
