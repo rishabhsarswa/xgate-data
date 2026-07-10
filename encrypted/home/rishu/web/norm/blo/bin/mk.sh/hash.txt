@@ -1,0 +1,1 @@
+588b9509df8d85c1f13c75a3b068f8cc3cae6cd5eebba57c0a735cf3266c23d4  /home/rishu/web/norm/blo/bin/mk.sh

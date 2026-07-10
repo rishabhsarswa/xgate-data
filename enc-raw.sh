@@ -28,6 +28,8 @@ find "$src_folder" -type f -print0 | while IFS= read -r -d '' f; do
 	    mv "$enc_fpt/tmp.acrypt" "$enc_fpt/file.acrypt"
 	    
 	    echo "$cur_stat" > "$enc_fpt/stat.txt"
+	    cur_hash=$(sha256sum "$f")
+	    echo "$cur_hash" > "$enc_fpt/hash.txt"
 	    
 	else
 		
@@ -41,13 +43,22 @@ find "$src_folder" -type f -print0 | while IFS= read -r -d '' f; do
 		    mv "$enc_fpt/tmp.acrypt" "$enc_fpt/file.acrypt"
 		    
 		    echo "$cur_stat" > "$enc_fpt/stat.txt"
+		    cur_hash=$(sha256sum "$f")
+		    echo "$cur_hash" > "$enc_fpt/hash.txt"
+		    
 		
 		fi
 	
 	
 	fi
 	
-	echo "$f" >> list.txt
+	if [ ! -f "$enc_fpt/hash.txt" ]; then
+	    cur_hash=$(sha256sum "$f")
+	    echo "$cur_hash" > "$enc_fpt/hash.txt"
+	    
+	fi
+	
+	cat "$enc_fpt/hash.txt" >> list.txt
 
     
 done

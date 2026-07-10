@@ -1,0 +1,1 @@
+d10ecab3648760d5ac495572b67724eaae49652606ef5dda74829a87a578f3d2  /home/rishu/web/norm/blo/pbc/mk.sh
