@@ -334,9 +334,9 @@ cc58115cdc76f8fffa70d5b78c72e5c832aaaf3f2b5db6143d3594d5cb9ac84e  /home/rishu/we
 9cff1132581884d56fe0b78f98dd6e7b969b546bea31e4d1511feb9ef4ec9e09  /home/rishu/web/norm/mbm/data.txt
 3ee09f57045cee7b4130324d6120414281a3e13c1d9461f9d1233d2ecbcb91ce  /home/rishu/web/norm/mbm/filter.php
 1363c71b982f7e587a96f1a909b39f48bbe7554d8e74213cc5fa16fd92915f54  /home/rishu/xgate-data/records/resolve.bin
-84096e7fd96f1f155236aad3818ccb39a6b3c8115bac931eddb7936ee123f793  /home/rishu/xgate-data/records/users.bin
+054fe6ea53f64cac9af497ae7ba33d009cc2592626ee1c880d7f1f198722a6da  /home/rishu/xgate-data/records/users.bin
 7a1267460ac974f3d2d62561841e3c4df5662e5962ddf2a068a526109e504bbf  /home/rishu/xgate-data/pro/eci/users/rishu/database/notes/nomapping2026list.sh
-5f568053d1130f95ace44ce1988c836a8b4f7f9f241af3cb64ca299ba036cc66  /home/rishu/xgate-data/pro/eci/users/rishu/database/notes/phone_number_from_efsir2025.txt
+a4c1e1a9cc27a0bd9dd176910269ed235c539e22c7ec684a95b5f5453e9825fc  /home/rishu/xgate-data/pro/eci/users/rishu/database/notes/phone_number_from_efsir2025.txt
 aae501218c670ea06f424fc4e70ec8001a0e045abb8f770e50cee0b1f1d51724  /home/rishu/xgate-data/pro/eci/users/rishu/database/erolls/v2026part217/exported/final.txt
 fd5beee978dbaab68f18f33c2024f74f67c4e5dae00677dd60ea3f124cfd42e5  /home/rishu/xgate-data/pro/eci/users/rishu/database/erolls/v2026part217/exported/epics/uio1251974/photo.png
 27e41fe156df97ad8c4ae11b0d76d67249e43aad8a5f2ee1948fb41fccf30ed9  /home/rishu/xgate-data/pro/eci/users/rishu/database/erolls/v2026part217/exported/epics/rj_02_014_1101036/photo.png
@@ -5373,8 +5373,11 @@ cc36a6a49ef6b0fc5c8cc6ad10b1ab506831b532e757c6c64785df4b275ea5ae  /home/rishu/xg
 9c52df2a90c0f1a7030af3ee1f368b16ef170a15e59e0d7895933949bd8df35a  /home/rishu/xgate-data/pro/eci/users/rishu/database/uploads/epics/uio2136794/aadhar-front_2026-03-27_12-57-52_1774616272.png
 f26d4776a33ff720f389c7e994d5901a76843471bc098e3ad72500436bd053a5  /home/rishu/xgate-data/pro/eci/users/rishu/database/uploads/epics/uio1923564/aadhar-back_2025-12-26_16-52-24_1766767944.png
 fc20b391a3e1bed66b420287dd9f57e26b511b95de06a06d6cc83e592d869a4b  /home/rishu/xgate-data/pro/eci/users/rishu/database/uploads/epics/uio1923564/aadhar-front_2025-12-26_16-52-07_1766767927.png
+314e81006c23072fe5923baf5aed6c9f8b5a33c8df251708f293477e16d9ed72  /home/rishu/xgate-data/pro/eci/users/rishu/database/uploads/epics/uio1920545/marksheet-10th_2026-07-15_06-40-30_1784097630.png
 8a139120688a335eb29720a97b892b45ca3abbf69d190810e845c12121d53fdf  /home/rishu/xgate-data/pro/eci/users/rishu/database/uploads/epics/uio1920545/aadhar-front_2025-12-26_14-25-03_1766759103.png
+724cf56aed3a5ab30b0d7934f1e6ee90d9e0a95298921ffb865f9f5647bec9fe  /home/rishu/xgate-data/pro/eci/users/rishu/database/uploads/epics/uio1920545/birth_2026-07-15_06-36-08_1784097368.png
 623769b0e272dc0af1949e5eaee9002effd7204df7c4e11809f4b7c98c551efd  /home/rishu/xgate-data/pro/eci/users/rishu/database/uploads/epics/uio1920545/aadhar-back_2025-12-26_14-25-27_1766759127.png
+0c172958d444ec1a7d494928ee194dc7b084c4fd1ee22bb585e1d608f329784f  /home/rishu/xgate-data/pro/eci/users/rishu/database/uploads/epics/uio1920545/pan-card_2026-07-15_06-41-15_1784097675.png
 a3a0e36fa62645606560f7f8521ffd2a7d01a00798d9bd9a0778d8c8ea6e0691  /home/rishu/xgate-data/pro/eci/users/rishu/database/uploads/epics/uio1934231/aadhar-front_2025-12-26_15-43-43_1766763823.png
 3830bfde2a52b4399c31c3740adeff95338dcbbbd3e91bd6a50a5c6e2a742254  /home/rishu/xgate-data/pro/eci/users/rishu/database/uploads/epics/uio1934231/aadhar-back_2025-12-26_15-44-05_1766763845.png
 ab507c9ec73a8fcfd160b24d675137e6ada892dad6609688bd200c856886c5fb  /home/rishu/xgate-data/pro/eci/users/rishu/database/uploads/epics/uio2092005/form6-front_2025-12-26_10-39-21_1766745561.png
@@ -5572,8 +5575,11 @@ da8cb95b2a1212301e1e473d2b13b3f88fb46173fc41ea682e6863b534df608d  /home/rishu/xg
 0d54a08d398e1126b16aa475531f97bdaaeeefa0fffd84e2829e995c2bb5d4d4  /home/rishu/xgate-data/pro/eci/users/rishu/database/uploads/epics/uio2119030/aadhar_2026-03-25_13-53-16_1774446796.png
 7a9b5640eb79d24c6eb7f00e4f0a5fe5b456ea6a50d37f5270688bc9eeadd47e  /home/rishu/xgate-data/pro/eci/users/rishu/database/uploads/epics/uio1934595/aadhar-back_2025-12-26_15-37-09_1766763429.png
 41570fb892c013e9f445d9c1170332a98352b409c7134939f2cd9c2b45d6e8f3  /home/rishu/xgate-data/pro/eci/users/rishu/database/uploads/epics/uio1934595/aadhar-front_2025-12-26_15-36-47_1766763407.png
+215260a060de8cb1fea0db6be18b36ccc8d1d2dfcb7950c8dc0edbb55da3a4da  /home/rishu/xgate-data/pro/eci/users/rishu/database/uploads/epics/uio1920479/driving-back_2026-07-15_06-31-48_1784097108.png
+524b961427cd731bb2c149842a0d23ecd753b63bd9e55d1449b5198e17867913  /home/rishu/xgate-data/pro/eci/users/rishu/database/uploads/epics/uio1920479/driving-front_2026-07-15_06-31-30_1784097090.png
 5ab7919bd09313f0b8c650814ce59d2d5f0dd12750091f44e698a61c52218747  /home/rishu/xgate-data/pro/eci/users/rishu/database/uploads/epics/uio1920479/pan-card_2025-12-26_14-19-58_1766758798.png
 1014502ed38da8fb95fa1327b63e477384e744449d539f1c5139ad9f9424f136  /home/rishu/xgate-data/pro/eci/users/rishu/database/uploads/epics/uio1920479/electricity-bill_2025-12-26_14-26-20_1766759180.png
+95e8a0087edb43c5569d5fcb8393ff628a78a9dba6d14757143a01c021c10576  /home/rishu/xgate-data/pro/eci/users/rishu/database/uploads/epics/uio1920479/father-voter_2026-07-15_06-32-08_1784097128.png
 770a20a0ff1fed9f6a2a90979312faadf11301b74deab798f6b09426f9660658  /home/rishu/xgate-data/pro/eci/users/rishu/database/uploads/epics/uio1920479/aadhar_2025-12-26_14-19-00_1766758740.png
 eea93479d34333faeccf862e0afa5fafcb1873ac9f7b9c7bd60c6f380d361f42  /home/rishu/xgate-data/pro/eci/users/rishu/database/uploads/epics/jgr3662897/aadhar-front_2025-12-26_11-11-41_1766747501.png
 5c8e08e13b95acd7518c69f5c7a773b7f2d299ea45493146279f7b593289dd5c  /home/rishu/xgate-data/pro/eci/users/rishu/database/uploads/epics/jgr3662897/aadhar-back_2025-12-26_11-12-12_1766747532.png
@@ -5601,6 +5607,8 @@ cb4a2b6263a62e41085413efcd1f7159a1ea8bae02294989604a3a3aba9f15c4  /home/rishu/xg
 29e5bb27820f9fa1c54108c6b7526d0920d28bf9a74cac32246eeddbea099ad9  /home/rishu/xgate-data/pro/eci/users/rishu/database/uploads/epics/uio1988542/janaadhar_2025-12-26_11-26-07_1766748367.png
 64474d55ce43b2326db2f88fc68951fc33f3aa96841c7d2e28fe2d979f156b2f  /home/rishu/xgate-data/pro/eci/users/rishu/database/uploads/epics/uio1051481/aadhar-front_2026-01-01_09-26-43_1767259603.png
 c806b010402b3acb02ed6bb695e2c34ce85d888e49a2bf519792703f76f1f33c  /home/rishu/xgate-data/pro/eci/users/rishu/database/uploads/epics/uio1051481/aadhar-back_2026-01-01_09-27-13_1767259633.png
+16779ea7720c58d7cb7ace54be0b7121e7e434fd8e1ecea474d6632cddac44ba  /home/rishu/xgate-data/pro/eci/users/rishu/database/uploads/epics/uio1920495/birth_2026-07-15_06-37-04_1784097424.png
+289bfeaa482a22c0079f51d253508c4d33b572870fbfe8b666cb2ae70ef47433  /home/rishu/xgate-data/pro/eci/users/rishu/database/uploads/epics/uio1920495/marksheet-10th_2026-07-15_06-38-47_1784097527.png
 ad907efd9932dbb9245af0c051b5a97a23b15964841822300b3c6feff744ebd3  /home/rishu/xgate-data/pro/eci/users/rishu/database/uploads/epics/uio1920495/aadhar-front_2025-12-26_14-23-22_1766759002.png
 aa34f4a9b4e206b7bb1696492cfb36622cb33609758c6512b27a237e02976d3f  /home/rishu/xgate-data/pro/eci/users/rishu/database/uploads/epics/uio1920495/aadhar-back_2025-12-26_14-23-47_1766759027.png
 e031dab58448d42735885f314b9b48d116c6e6c5b6e7c52a1e90c199e213b3aa  /home/rishu/xgate-data/pro/eci/users/rishu/database/uploads/epics/uio1920495/pan-card_2025-12-26_14-24-12_1766759052.png
@@ -5820,6 +5828,7 @@ adf55ac74568727529707083914a25ab602bee02a123e6bf2fdba17ebbf287f3  /home/rishu/xg
 9b3bd10e071a058a5930591b84efdf7e800a44ef55679b21669b9c7a4507bb3e  /home/rishu/xgate-data/pro/eci/users/rishu/database/uploads/epics/uio2057545/aadhar-front_2025-12-26_16-11-11_1766765471.png
 6325ede8cf22eca23e6ce92f2124f9f7ccc08c7fe1b9594a3e635848b6d5343d  /home/rishu/xgate-data/pro/eci/users/rishu/database/uploads/epics/uio1051515/aadhar-back_2026-01-01_11-08-51_1767265731.png
 4565353341be72924289cede3bd772587b35d04bd7c5554c9a9c3358677894c4  /home/rishu/xgate-data/pro/eci/users/rishu/database/uploads/epics/uio1051515/aadhar-front_2026-01-01_11-08-36_1767265716.png
+f93ca3036fbc2f23c75ecd00c3091f003f3e8ac128f5440cb70483072e271261  /home/rishu/xgate-data/pro/eci/users/rishu/database/uploads/epics/jgr3656907/aadhar_2026-07-15_05-44-18_1784094258.png
 920aa24ccbe07120db5c6461aea9ec3f98bb467f6d8fbb7ef0f9f927f586a8a4  /home/rishu/xgate-data/pro/eci/users/rishu/database/uploads/epics/uio1934991/nikah_2025-12-26_15-18-14_1766762294.png
 d4a34de34bca9a225093bbd4a6d20ac016ccb184614a6160ddab0daeac9a015b  /home/rishu/xgate-data/pro/eci/users/rishu/database/uploads/epics/uio1934991/aadhar_2025-12-26_15-16-47_1766762207.png
 b8e2eed33324a4a2c92d3d821b047d70660ac6890fdf633187cbadab54864c49  /home/rishu/xgate-data/pro/eci/users/rishu/database/uploads/epics/uio1988914/aadhar-front_2025-12-26_17-05-43_1766768743.png
@@ -9342,7 +9351,7 @@ cf1bf32c7784fb4bc2d21fd063d038c24c2844fa544deccb2c4b59558714130c  /home/rishu/xg
 6451ca0a060347f192367601187d46c29968d313b6cc16e7f21768c9efc2e588  /home/rishu/xgate-data/pro/eci/users/rishu/database/extras/sir2025ef/sir2025ef_am7_uio1475946_1764264203.jpg
 e2823ea7a67b5b556b93d5403f9e4706541973ea3a4500fa2e30d2141d4e9bcc  /home/rishu/xgate-data/pro/eci/users/rishu/database/xroll/2026_ward_30_1.txt
 e6f3616d983df935e907c4a5a09b3d75c3cab732786a84b750d5fb30252f7b3a  /home/rishu/xgate-data/pro/eci/users/rishu/database/key_lists/phone_book_keep.txt
-e6f3616d983df935e907c4a5a09b3d75c3cab732786a84b750d5fb30252f7b3a  /home/rishu/xgate-data/pro/eci/users/rishu/database/key_lists/phone_book.txt
+5bf36071f72fb262a660a3a1bd48039c40db32c5643a8de4f102632c1f335210  /home/rishu/xgate-data/pro/eci/users/rishu/database/key_lists/phone_book.txt
 1e36087dc5ca672ff245928fc6ec9b8e677809f0827bd4602ebc9d2b3b96687b  /home/rishu/xgate-data/pro/eci/logs/eci2002search.txt
 b79f8618667621561b0030e5701d68289662bb4a09712bf8ad553634dc3f285c  /home/rishu/xgate-data/xgate-src.tar.xz
 87522163df1d3d6f111338d6dc9e9891384279293149667fd5cef6e39e80528f  /home/rishu/xgate-data/rishu-keep/scanned_pdfs/Office Lens/2023_08_23 11_38 AM Office Lens.pdf
