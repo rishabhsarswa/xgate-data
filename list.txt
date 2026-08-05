@@ -1,15 +1,7 @@
-1ccc3abe812bb9fa089629a67fe8d6b0544a55a92c10916fd49d44ba331b04dc  /home/rishu/web/njb/cv/cv2.html
-3168c174dd313f5124b90478e49f7b4efc6792563b6f6c9ebe36fa59c3899727  /home/rishu/web/njb/cv/cv4.html
-d111cd43c19d92b3cdef89946449388f70e2660d65f76421bca02f40f6b50f35  /home/rishu/web/njb/cv/cv.html
-825507227448985a78512211f0a8ece3fefd047df0e2a19c11c62bb2c187711a  /home/rishu/web/njb/cv/rishabh.png
-a94ca5f2561219d0a669bb65d16deff202d9e9208c983b0fbc0c9e8e01649e90  /home/rishu/web/njb/cv/cv.txt
-22fb34d16fe7e9c5624269c254dae67d651f7cd5e55c7ae35ce0d06fe7f59cf0  /home/rishu/web/njb/cv/cv6.html
-22fb34d16fe7e9c5624269c254dae67d651f7cd5e55c7ae35ce0d06fe7f59cf0  /home/rishu/web/njb/cv/rishabhsarswa.html
-f13ddba1fcd1032c8f611a90715fc0929a4af497800a7bad20ad9aa0e6b4c6e6  /home/rishu/web/njb/cv/cv5.html
-64986f8d63ffd2112e1b1a103f1c57f98f0afd0fbbab5b48fa95098b458bfd4a  /home/rishu/web/njb/cv/cv3.html
-525cd49588eb1d7b7bb6bbcd7d9519869a96073aaac24f842f60f58ded5b7f0b  /home/rishu/web/njb/rvunl/sys.html
-bc8da09b2acc77fd7c932b10095319545bdecc0138aa708074dfaad7a6cf8955  /home/rishu/web/njb/rvunl/rvunl.txt
-28461794e57c15e10e1aee87d56860b8839836d01744c1da2ab49a302a96a1b7  /home/rishu/web/njb/mit/mit-6.002s07/6002_l1.pdf
+29768ea444401c28ac59bf18e2f9fa59473e36bb03052ad5e541b32211242dbe  /home/rishu/web/njb/cbt/21.html
+a1f02de0fe5fa6d9968431cf86c21b33031455e7760090f213ee7476aa571ad1  /home/rishu/web/njb/cbt/11.html
+ca235c6dde824297ae723d6f2c1e29836e70d855fb86ec472b4045c48b080153  /home/rishu/web/njb/cbt/31.html
+18a289b0c64356e8d6dc4ddcb554ebfbc71a87c1e63dc239482153e78a90fea3  /home/rishu/web/njb/cbt/01.html
 5b9b6815e9f4478dc33712aba9b89b003caa7dfd0e4fc88feaa25bb36dc4d506  /home/rishu/web/norm/blo/bin/blo.pdf
 d4b604380f9f8a6d0c0ee07ca8443a7e1ab9a3e6591fdf0032b0411fe70bac6c  /home/rishu/web/norm/blo/bin/ox.csv
 bdf8f47ac1ca7828f3701c23d1172f439b5c36093631766170edd355cfbc61f9  /home/rishu/web/norm/blo/bin/.~lock.ox.csv#
@@ -333,8 +325,8 @@ cc58115cdc76f8fffa70d5b78c72e5c832aaaf3f2b5db6143d3594d5cb9ac84e  /home/rishu/we
 3b1ee5ca89b4a194defbaa9b2ca49dce64be88f99fc1cc8188cbe94e3e24de32  /home/rishu/web/norm/mbm/lib-list.php
 9cff1132581884d56fe0b78f98dd6e7b969b546bea31e4d1511feb9ef4ec9e09  /home/rishu/web/norm/mbm/data.txt
 3ee09f57045cee7b4130324d6120414281a3e13c1d9461f9d1233d2ecbcb91ce  /home/rishu/web/norm/mbm/filter.php
-1363c71b982f7e587a96f1a909b39f48bbe7554d8e74213cc5fa16fd92915f54  /home/rishu/xgate-data/records/resolve.bin
-054fe6ea53f64cac9af497ae7ba33d009cc2592626ee1c880d7f1f198722a6da  /home/rishu/xgate-data/records/users.bin
+4bfcd0a148a21b8532a71d1bebae2f168a9822c7e671d09a778b44d9c8dadfbb  /home/rishu/xgate-data/records/resolve.bin
+48b7db462f6e61b7b10d9daa521d15781ec9db79fbe7f357a9376c07e499ae08  /home/rishu/xgate-data/records/users.bin
 7a1267460ac974f3d2d62561841e3c4df5662e5962ddf2a068a526109e504bbf  /home/rishu/xgate-data/pro/eci/users/rishu/database/notes/nomapping2026list.sh
 a4c1e1a9cc27a0bd9dd176910269ed235c539e22c7ec684a95b5f5453e9825fc  /home/rishu/xgate-data/pro/eci/users/rishu/database/notes/phone_number_from_efsir2025.txt
 aae501218c670ea06f424fc4e70ec8001a0e045abb8f770e50cee0b1f1d51724  /home/rishu/xgate-data/pro/eci/users/rishu/database/erolls/v2026part217/exported/final.txt
@@ -5358,6 +5350,8 @@ d296317bbdbf480479676644d36f0e70f2c7b48ab580169a7bfe4fb729250a76  /home/rishu/xg
 6c7218d41e18b51ce1430b39b65b381463b3a884112b0c37d4a6a0c3ea80bdd0  /home/rishu/xgate-data/pro/eci/users/rishu/database/uploads/epics/uio1621200/aadhar-back_2026-01-03_13-05-11_1767445511.png
 391bca9bd6f13929ebea4df3b723af3cbe71e166440b7d2f78475125e71ef403  /home/rishu/xgate-data/pro/eci/users/rishu/database/uploads/epics/RBP2151322/aadhar_2026-01-28_15-18-07_1769613487.png
 11ddb297996022569e6ee2272e5fd999c1b8ce8e96d7a1eb9921cb8f804f2d65  /home/rishu/xgate-data/pro/eci/users/rishu/database/uploads/epics/RBP2151322/marksheet-10_2026-01-28_15-19-29_1769613569.png
+74eb90aa9df07f829945d1d7f94333deeb4c61a54a71b9a4d4b96d04944c0920  /home/rishu/xgate-data/pro/eci/users/rishu/database/uploads/epics/jgr2553121/aadhar-back_2026-08-05_06-20-00_1785910800.png
+e62390a24595a207a08e77e62e55469a41e90b5730d19b9cf00f8ded203917d5  /home/rishu/xgate-data/pro/eci/users/rishu/database/uploads/epics/jgr2553121/aadhar-front_2026-08-05_06-19-30_1785910770.png
 1b340d046461d7a20ad3689a86bfb63b3839f801a28f28841393e034be92d101  /home/rishu/xgate-data/pro/eci/users/rishu/database/uploads/epics/uio1051572/aadhar-front_2026-01-01_09-27-49_1767259669.png
 012463e5ade8a7fe6c374f93aaf8216d831865ecd18ee247ecb99e6c0ba85b50  /home/rishu/xgate-data/pro/eci/users/rishu/database/uploads/epics/uio1051572/aadhar-back_2026-01-01_09-28-19_1767259699.png
 bd437b8245604b70fda3adeb29052d507e79a6c7c6ed134acb5176cbabbdf17b  /home/rishu/xgate-data/pro/eci/users/rishu/database/uploads/epics/uio0318535/aadhar-front_2026-06-11_15-36-14_1781192174.png
@@ -5940,7 +5934,7 @@ d5f638af6daa22dd680fdbc1d7179d78c3e80afa285c2abe2d46418015b035d1  /home/rishu/xg
 d2eeb9453b899f6eee3e82a8bc339bd3abcc3b8a2fbb9a33670718259b4e1096  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio0508473.json
 366a4073460449807ce90677ac423a5aee41d2ae0ac8cb8ae659cdadbbfe753d  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio1318906.json
 d37868abd969041d14ba9772b9747276c06609bf200db44128706958ae29b449  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio1984616.json
-bc1d53ad50cbde893b7206063a28032f8eeccc951a96943b7572078cae2877a0  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/jgr2553121.json
+27c66e70eef73a7bbb238f2d050e5ba657de10881acb81e8382362f1e3924559  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/jgr2553121.json
 ce937ecc2c9111136a9b6ec9782d6d8a0d0f886eaf7f9ed83302ac705501b311  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio1746536.json
 3d87a7589e302fe112c47fb1bcd58285145c343adaaba6aae630c00fce8ff76d  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio1591221.json
 5e7b1fa46b318912a078253c42e83b39ac7b62d613f06b5f354d093f2ee742d1  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio1929348.json
@@ -9352,8 +9346,8 @@ cf1bf32c7784fb4bc2d21fd063d038c24c2844fa544deccb2c4b59558714130c  /home/rishu/xg
 e2823ea7a67b5b556b93d5403f9e4706541973ea3a4500fa2e30d2141d4e9bcc  /home/rishu/xgate-data/pro/eci/users/rishu/database/xroll/2026_ward_30_1.txt
 e6f3616d983df935e907c4a5a09b3d75c3cab732786a84b750d5fb30252f7b3a  /home/rishu/xgate-data/pro/eci/users/rishu/database/key_lists/phone_book_keep.txt
 5bf36071f72fb262a660a3a1bd48039c40db32c5643a8de4f102632c1f335210  /home/rishu/xgate-data/pro/eci/users/rishu/database/key_lists/phone_book.txt
-1e36087dc5ca672ff245928fc6ec9b8e677809f0827bd4602ebc9d2b3b96687b  /home/rishu/xgate-data/pro/eci/logs/eci2002search.txt
-b79f8618667621561b0030e5701d68289662bb4a09712bf8ad553634dc3f285c  /home/rishu/xgate-data/xgate-src.tar.xz
+604076a9cfa4a88de8905bada3aa36c00c668843090644e3f59fa1248b6f6329  /home/rishu/xgate-data/pro/eci/logs/eci2002search.txt
+7a7b792ceecc5fcdbd592a9c2ea6c9df5f9e8157ed3d0e84ab07b4cdb05be2e4  /home/rishu/xgate-data/xgate-src.tar.xz
 87522163df1d3d6f111338d6dc9e9891384279293149667fd5cef6e39e80528f  /home/rishu/xgate-data/rishu-keep/scanned_pdfs/Office Lens/2023_08_23 11_38 AM Office Lens.pdf
 5a275296ab9b4ebd9a968777f984880dc4cf8316fd1934532cd9b8520f5a2cb0  /home/rishu/xgate-data/rishu-keep/scanned_pdfs/Office Lens/2024_07_09 2_24 PM Office Lens.pdf
 90224f63838c429ba15fbd15e78f024697670279de4b3034498cd2ac39a1b0d9  /home/rishu/xgate-data/rishu-keep/scanned_pdfs/Office Lens/2025_03_17 11_52 Office Lens.pdf
