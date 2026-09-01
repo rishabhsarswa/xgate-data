@@ -8,7 +8,7 @@ cd "$(dirname $0)"
 echo "Loading data into Git ... "
 
 
-#git remote set-url origin https://USERNAME:TOKEN@github.com/USERNAME/REPO_NAME.git
+#git remote set-url origin https://rishabhsarswa:TOKEN@github.com/rishabhsarswa/xgate-data.git
 
 
 git add .
