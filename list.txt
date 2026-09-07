@@ -1423,6 +1423,7 @@ f8330bbe60198b6ba17092d01c05052867866aba42e68f7f31be6921cd4bda5f  /home/rishu/xg
 1c0a556a22300bdefb6a4c1291e79261354509edb0aae60d5031cfe9384d2669  /home/rishu/xgate-data/pro/eci/users/rishu/database/erolls/v2026part217/exported/epics/uio1591221/photo.png
 700ae8e64321d0fcca64d763570fedea9ff8426e3875694c0957fdf0d052f57e  /home/rishu/xgate-data/pro/eci/users/rishu/database/erolls/v2026part217/exported/epics/uio1934215/photo.png
 ef0ceee2deae93378a0d39abc9fb395cd1be7d7b797490fa2d361c246c14a52c  /home/rishu/xgate-data/pro/eci/users/rishu/database/erolls/v2026part217/exported/epics/uio1822220/photo.png
+803a44b0f3619d4c2c2164a7f23c3c186919f93926cd9ef7e1b37462ee28895b  /home/rishu/xgate-data/pro/eci/users/rishu/database/erolls/nagar_nigam_2026_30_1/exported/final.txt
 8105009749d64b36cf9ad328b9fa2c8dcd6ab3590621f08451797ca17ec813ba  /home/rishu/xgate-data/pro/eci/users/rishu/database/erolls/v2026part215/exported/final.txt
 e4b69ad12ead10d3ebeb83f92f602184eca3ecd88d8b7f4ecb7c753b3ec32650  /home/rishu/xgate-data/pro/eci/users/rishu/database/erolls/v2026part215/exported/epics/uio1586841/photo.png
 9f168ec64369553e998ac73b8a50b97f09b6e54173a979355c2b7864c5f038d7  /home/rishu/xgate-data/pro/eci/users/rishu/database/erolls/v2026part215/exported/epics/uio1073485/photo.png
@@ -9351,7 +9352,7 @@ e2823ea7a67b5b556b93d5403f9e4706541973ea3a4500fa2e30d2141d4e9bcc  /home/rishu/xg
 e6f3616d983df935e907c4a5a09b3d75c3cab732786a84b750d5fb30252f7b3a  /home/rishu/xgate-data/pro/eci/users/rishu/database/key_lists/phone_book_keep.txt
 5bf36071f72fb262a660a3a1bd48039c40db32c5643a8de4f102632c1f335210  /home/rishu/xgate-data/pro/eci/users/rishu/database/key_lists/phone_book.txt
 da205beca677e639a8605d536974809ed312325b663e5937a1cb136449811ddb  /home/rishu/xgate-data/pro/eci/logs/eci2002search.txt
-7a7b792ceecc5fcdbd592a9c2ea6c9df5f9e8157ed3d0e84ab07b4cdb05be2e4  /home/rishu/xgate-data/xgate-src.tar.xz
+4231d5d5855f07c6970d0985aa3c9e21a019e812417887a7f2b8420951433fef  /home/rishu/xgate-data/xgate-src.tar.xz
 87522163df1d3d6f111338d6dc9e9891384279293149667fd5cef6e39e80528f  /home/rishu/xgate-data/rishu-keep/scanned_pdfs/Office Lens/2023_08_23 11_38 AM Office Lens.pdf
 5a275296ab9b4ebd9a968777f984880dc4cf8316fd1934532cd9b8520f5a2cb0  /home/rishu/xgate-data/rishu-keep/scanned_pdfs/Office Lens/2024_07_09 2_24 PM Office Lens.pdf
 90224f63838c429ba15fbd15e78f024697670279de4b3034498cd2ac39a1b0d9  /home/rishu/xgate-data/rishu-keep/scanned_pdfs/Office Lens/2025_03_17 11_52 Office Lens.pdf
