@@ -7114,7 +7114,7 @@ f9ae493f79195d3867ca21c598642d736400275459cbf9536519e66c7aba8182  /home/rishu/xg
 f07f9f3afe60971ed000366788d7d1d0c81ab298b27746c2e995adf457f9ec3d  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio0938522.json
 b48f75a424e4b8ec0fc88980725f2b079ec92f3a4ed8d1101dfaa9ca6a0a479f  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/rbp2151322.json
 50aa14503f15e79af28f5884d9cb262605cd28aa8cf7e0841ad9e28468ab0915  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio1528793.json
-12b4e0577e7795afc1861aa7b926b29c0e4ef5a196c71266a441d6b726287b0d  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio0733683.json
+420e38c3f9e27fc0a0bc063bb4b35ae2040bbaae974ce3b06d1e18c14b1f09ca  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio0733683.json
 73cbe134b9960a16131b5c5efbf0f8a69db96b7f553d5ffaed2076b884c3959c  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/rj_02_014_1101090.json
 ae6fe5c15fc27b8da7ca200a0eaffc81af7eafc77d2d16d94bbb186db51f23ea  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio0158028.json
 2e69d79786fdd98788b64ba08ceea01bd031e5d911a08b70cdebff38743e1557  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/rj_02_014_078462.json
@@ -7430,7 +7430,7 @@ cab94ff7967673801cbfef381f73cab0b3b34a6fbfa23fdd2ad8263b27359e7d  /home/rishu/xg
 fcbc240c0f61a8428ac7481282badf3a587e93e5f0535c86689ad79a8f80a1cf  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio2250496.json
 02557a0ac4b9d69805213b09070b701a66964dd774c74c49f9bb567b6c0e52a8  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/rj_02_014_1101502.json
 f399ae1781de3eb1e24f8c9c36e814f7897bb921890496476fff1b39ea732e04  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio0032896.json
-113fe65f0827d05fbe350f3a0718f02606699320cb73201a2e29d180755404a8  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio0791467.json
+a959e0495ac698f82f8c5c937e8a02acdf6adbadc846141d5eafc77fac1de5a0  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio0791467.json
 6e1e76af646a9300f0d22b76ae0be87b7817c7f16010ee498fcf7d47260fbf4e  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio1596949.json
 475e797a0cadb8cdeb14763949e9e33f1c1953a49ee150e77bf14bfbec3e8434  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio1988534.json
 2b9a8e02fe0d825b32bd3569efc7cd4db698a4da4070ed8f0b6eecb456d07322  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/jgr2552651.json
@@ -7449,7 +7449,7 @@ ae39bdcc12e703ae6ee720ce7c068d57981b41d6d77370b146dd80b602f4c6dc  /home/rishu/xg
 5791adb0e44ff773f26cd75bfb8073dd7c47d9281891c4e7012709e7b8d4ccdb  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio0507921.json
 67f9be44969ccf948a00e3a260232ef9cec60d4d9051409b94cd3a1913821d14  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/rj_02_014_1101458.json
 e49eb1e7003a1dbd1d5d2a35aa106d62d82568c8b859fd9d411ca1b392612a17  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio2216026.json
-a811b06ed0a873946a7184b8d120bb02ad799f6b6beb359115225e1df43452c5  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio1332089.json
+a8ebf6307c8b05ec7152943f42b8d119e9246ad62ea7349719a2a8503bd9bc1f  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio1332089.json
 885caf2efbac3e18c6335ad951fac392b07febbabd3e07163f48f53823ee7d7b  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio1923333.json
 751b41c459603929defbc20b7353c6a363ecdc47eadb0bf0945f32dfa0050556  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio1073451.json
 300228653dae1068d525570cf293f30fe0e16f47a2506ecee88c6cb0d44b6e56  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/rj_02_014_1102042.json
@@ -7543,7 +7543,7 @@ ad66d8302ee0bebc481792775d577540c286feff3d83989716f01109be90bc2f  /home/rishu/xg
 e1370d9477ff5de9c19eea6fdd90659887d03c8492d0863f3f3b7eedd7bfbb65  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio1249390.json
 ec1416816f01c70fad06c8e888ff8c01bacc849d6cbff6ad242845fb12686e6f  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio0913418.json
 a04780bfdd42d168a362333aa7708bec0a436faa54fe8aed39a9280590a98ca4  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio1926716.json
-80d283b0c99dad1a32edca66860ba5200c3bb9542563ef38b1a11262fe8f2733  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio1249960.json
+0eaf913643dbc0572e0b62f30bf195321f4efb3eef6459defb9a2570801e9af1  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio1249960.json
 5e4979acb20805f2db1f635eadc7e0ea76fecec98c36b812ad6e8fafdf92459a  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio1250133.json
 248bedd6428eefd6a9539e2e0ffd94dd195047818d6e6a524bbc034628b2fb7f  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio1250489.json
 3d5a2e1111f846ed4d0e19d79d56cd3d1d7a5c7b1453fd4951990c2eef6da64d  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio1704519.json
@@ -7841,7 +7841,7 @@ ea73bde4e468acd7c07203575b23b4451b1a73d995fe45fe46b406967bc160dd  /home/rishu/xg
 dfded4b95480d5670982da966d2afd4c9d76e78fc22dc755fb5cb26a772eea3a  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio1988724.json
 2e0a4ff559ab8ef82d6561a17233ec3b884d67f8d7aebf3400ca9bcecad10286  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio1250380.json
 0670fa4e433c1ec44ce359bbb0526062bf40ed7422940dd470538197a49f4d9a  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio1095967.json
-8a7971c9293a613f504d9c652023b53649b5853d40f78293982e51dad8acaa33  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio1961390.json
+86cb16698a197c18e4541ece869a5b8e0b8c11128cd2c5f011d5f0bba0f3389a  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio1961390.json
 3b4ee17a8a1d984202324dc7cb669d121b73f32f8a6bdcead76de4dd93f14a04  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio0204852.json
 0fa2c2e9d4afc39f2c8faebd6e35bba453de5032d02bfd18279d807d47abdc23  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio1303833.json
 f4bd3d3fdfa54293490c33944c716303296dc58ec435b9fd0933191fbb62d757  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/jgr3651254.json
@@ -7884,7 +7884,7 @@ dd9af1aad173341520e722c97aabeeaf888b9083f7d8b6ed0575c906c91d1953  /home/rishu/xg
 a7b771f39925879bc63cfdb9128a38b1997b271b75b76e3da48d88ca4280bcab  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio1961507.json
 de50309092d9f44d5515e1f0ffda45c84d8934706d3b75d9af49f60dda0ba9e9  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio1095694.json
 dd0854ba7fe49b2fdaa39e3882b93a9e7a5139cbf81c2d755ba166142bd36ecf  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio0567362.json
-b097500514fd26e273033f130752c22cedcc01131aa6acc7b60bd15e71fb9e00  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio1250596.json
+667965d2778a6e85a41c0250bf1e68664320fdd5e9ceeb7d9c16fba96271ea37  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio1250596.json
 bf9ae1b0430f7a0f4221ecbfd85faf41bb02c0abb53c289be6306be85ddbdea5  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/jgr2563856.json
 73cee37511f13619991efe9fb777e00beb1fc54dd792d289d3e8ffd453e08c0a  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/jgr3662095.json
 35139e19eb2d35ade2533eaee79b8f6c5835fab437e45829a194ffc07fa6a1f6  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio2136083.json
@@ -8192,7 +8192,7 @@ d5b2a361065f957b4f349d6b6f3979f046516c4d18b1ba79f0804b91a5142d13  /home/rishu/xg
 fcc07c46319d26633176cc8824a6e6838ece457f5b9791c5a315ca9bf21903e1  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio1472422.json
 3a86ad9d5fd9dfaca4ee4d431a16cfc6df6e13f522b52602d4ba1439029a40ef  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio0172924.json
 60c985b979724fa42ec0e0845e58cae0c6bca39615fb8fd5fdd9a2d7b4700fb7  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio1249333.json
-af1298b195b9bf741d523bd20c79fe900d68542285e848df2e86e955a036f2a4  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/rj_02_014_1101193.json
+426ae493a5a58d6556c11ecdaf770855f9cd9ed86bce865a91cbc43b24f99725  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/rj_02_014_1101193.json
 27217c1bffd0cae71824331f3bd9013699a69a953159fd259fae9fa2f6d16c7b  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio2137800.json
 8736e0269108a125ba5942e4fd9958a6057e965b1ad757b4f8d43d869b8927e1  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio1095736.json
 fa3384230e0abb09a174780b7984067f161437dc1716ef2313327fa332d466a1  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio0733576.json
@@ -8251,8 +8251,8 @@ f800e8927475414735b4a691a0f99f65f4f4ba718c0c49f2e94141a21c94288c  /home/rishu/xg
 baf571c9a2bce34c476ad403bfb33c4180da8a902af89e9ca9d3f7ddea9a8104  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio1471119.json
 4ab3195dbb96044917b0486e216bad8dce8b08afc9db8398277f4f858a07bebc  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio0204987.json
 bc7b6e82d9bf97f4834e2d6793f5f0a66c5c818367e0f9bccb78112b0e1d89b8  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio1596881.json
-e7fedfe0a2dfb8e60f21e95335798d2e317840ede4006c91f562fae1694d8f45  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio2155117.json
-e889023e32e1f750c33025eb7cdf5bbe6c64b808b31dab94c3df3e3e0db535d2  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio1250570.json
+7b948529605594e0e5bad6fee7a4ff7712031dc1947bdd29f4b841dfb25c0ba7  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio2155117.json
+e211ae7cbb2ba3d317e0d60fa696da34566aed2e175d0de7093f8bffde0fff83  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio1250570.json
 e2948f5f5f9035c86ad285587dde522c8fd7aa7067d8bb03c2ffbd4ef6d3cfac  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio0032615.json
 0796f23bef1073570c07ae051ed911c6f76981dd0ac619aa4e7745d32485521f  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio1935204.json
 31a9b4cf29288277cdefb1c7e3b8e1669ae311fc70ff7c92b2b7ef485afa9852  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio1944370.json
@@ -8312,7 +8312,7 @@ af5e1c3464e93cf3fa5f82e4c81dbc096334257d30702043b87253d290b1d664  /home/rishu/xg
 1ff80775585b2a30d6182d939240b323ac0bda438cc480b599add67c65ead808  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio1073436.json
 36c6134b28f0b3ae533bb1a39eb202a4876426f52ae52d0a1fcaa6135ab2bf09  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio1451376.json
 5062caf36a6e51e0483927e9096beef8d9ccf715874e7b05121e7af90a2364b6  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio1867183.json
-2b4028675111010da77fc4838547c070216cd06d5c17b74b5c7cec523e5acf1e  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio2004398.json
+804792237a47814e7ef3dbdd9d97419cdcdc5422504cec5b6096d9306c8e2887  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio2004398.json
 45c46644648944ae2f537ec96f309a6962d227c02d16d1ffbf94f21ec11ef839  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio2071694.json
 c548f1c29461bf095a37623df20efd6ef70b486dd5cb4e8414de2600f16097bd  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio2011989.json
 e989c6e72404afe897286ef088a192d78bae208f79bfec47d46c069f913d622b  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio1303643.json
@@ -8362,7 +8362,7 @@ ee45f3bef2beae3d58b8971d21891263b4a87fb4cd57efee6079e68b1f2b0ee3  /home/rishu/xg
 88b1716d17c49b4e3e0dd4cd628682e80209078251f19d00130001d80121e40e  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio1935246.json
 e5c8284283a5d49dc282b53cf92e539c8aecde3bac3bd7bd2ddc731a5b451e5a  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio1051549.json
 797d2ba6d4a0cfa351d8f53b53aa33c0f56d845daf50ab7f73fa7041d0feac4d  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio1925056.json
-79f1b6ec1966c499c062197da9ab659ab606177a88dd8e0a92cad64166ce1620  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/rj_02_014_1101508.json
+442614449c5b661b6aa65036ca3ebfac849e9696ba3d0c6773f2016611abb01b  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/rj_02_014_1101508.json
 be66996f4a7de61dbd520bfb14575a57fd7fd4027b4f91d3c7f920ccf574a52b  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio0435172.json
 e1ffc030e1aa03a06ee541a4bd635354f9fe2cd77d93d4c7566cca3452461486  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/uio0204816.json
 79eb24f14e84a57c149722d4035dad989c56c6ed5edcd5cf8933ede94b275cfb  /home/rishu/xgate-data/pro/eci/users/rishu/database/epic_data/json/rj_02_014_1101345.json
@@ -9854,7 +9854,7 @@ f330ee3b3a6f294d964fdffafb3ae6a6c12a413f2eefcb04e6eb945e3584408a  /home/rishu/xg
 e6f3616d983df935e907c4a5a09b3d75c3cab732786a84b750d5fb30252f7b3a  /home/rishu/xgate-data/pro/eci/users/rishu/database/key_lists/phone_book_keep.txt
 5bf36071f72fb262a660a3a1bd48039c40db32c5643a8de4f102632c1f335210  /home/rishu/xgate-data/pro/eci/users/rishu/database/key_lists/phone_book.txt
 b2eaf8afa450638b6d17a77d7b697e2405f135098cc57fd5a7e5dcc0c0409d08  /home/rishu/xgate-data/pro/eci/logs/eci2002search.txt
-dc34bd32467e22e20b633890ba130c85bae92efa26141ea031ce177b9a785417  /home/rishu/xgate-data/xgate-src.tar.xz
+774deb1342c063a2493bc932f5277ceae996343de283a84e1dedd44edad899f8  /home/rishu/xgate-data/xgate-src.tar.xz
 87522163df1d3d6f111338d6dc9e9891384279293149667fd5cef6e39e80528f  /home/rishu/xgate-data/rishu-keep/scanned_pdfs/Office Lens/2023_08_23 11_38 AM Office Lens.pdf
 5a275296ab9b4ebd9a968777f984880dc4cf8316fd1934532cd9b8520f5a2cb0  /home/rishu/xgate-data/rishu-keep/scanned_pdfs/Office Lens/2024_07_09 2_24 PM Office Lens.pdf
 90224f63838c429ba15fbd15e78f024697670279de4b3034498cd2ac39a1b0d9  /home/rishu/xgate-data/rishu-keep/scanned_pdfs/Office Lens/2025_03_17 11_52 Office Lens.pdf
